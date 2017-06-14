@@ -5,6 +5,7 @@ public class AccountUtil {
 	private static int accNo=0;
 	
 	public static int generateAccountNumber(){
+		sys
 		return accNo++;
 	}
 }
